@@ -5,6 +5,7 @@ dd
 
 dididid
 
+<<<<<<< HEAD
 user1 edit
 
 user1 hi
@@ -12,3 +13,6 @@ user 2 edit`
 
 
 client file  324
+=======
+user 2 edit`
+>>>>>>> user2 edit
