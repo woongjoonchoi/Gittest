@@ -5,6 +5,7 @@ dd
 
 dididid
 
+<<<<<<< HEAD
 
 user1 edit
 
@@ -25,3 +26,9 @@ master commit
 
 
 ddf
+=======
+user 2 edit`
+
+user2 wjccom
+
+>>>>>>> wjccompany/master
